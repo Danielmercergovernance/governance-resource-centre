@@ -18,8 +18,7 @@ The aim of this project is to provide accessible guidance for organisations, dir
 
 A comprehensive guide to **company secretary responsibilities** is available on Ingen Partners, covering governance duties, board support, statutory obligations and the evolving role of the modern company secretary.
 
-➡️ https://ingenpartners.co.uk/company-secretary-responsibilities/
-
+➡️ [Company Secretary Responsibilities](https://ingenpartners.co.uk/company-secretary-responsibilities/)
 ## About
 
 This repository is maintained by **Daniel Mercer**, who writes about corporate governance, company secretarial practice, board effectiveness and governance recruitment across the UK.
